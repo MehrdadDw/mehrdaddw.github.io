@@ -66,6 +66,15 @@ Each new edge out of m0 for new node, with probablity of (1-p) connects to a ran
 ```
 The implemented algorithm is based on [kleinburg-kumar Vertex copying model](https://en.wikipedia.org/wiki/Copying_mechanism)
 ### **Degree Distribution Result**
+
+The model started from below seed graph:
+```mermaid
+graph LR;
+    0((0))-->1((1));
+    1((1))-->0((0));
+    1((1))-->2((2));
+    2((2))-->0((0));
+```
 The degree distribution as it can be guessed is decreasing for higher deegres and is said that the distribution follows power law distribution. The interesting point as shown in chart, is that the when the probablity of old neighbors increases, the apearence of higher degrees is more likely to happen.
 ![Preferential attachment]({{site.url}}/../images/Copying-5000-nodes.png){:class="img-responsive"}
 {: .center}
