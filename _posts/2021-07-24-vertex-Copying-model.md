@@ -26,7 +26,7 @@ mermaid: true
 
 ### **Algorithm Description**
 
-Each new edge out of m0 for new node, with probablity of (1-p) connects to a random node and with p connect to an old neighbor of randomly selected vertex. which means either the new destination is and old destination of some node or it is compeletly random.
+Each new edge out of `m0` for new node, with probablity of `(1-p)` connects to a random node and with `p` connect to an old neighbor of randomly selected vertex. which means either the new destination is and old destination of some node or it is compeletly random.
 ### Step1. for each of m0 edge, throw a coin to decide what should we do next:
 
 ```python
