@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Preferential Attachment - a brief overview
+title: Vertex Copying Model - a brief overview
 categories: [Social & Economical Networks, Vertex Copying Model]
 tags: [Vertex Copying Model, Social Networks, Python, Chart, Deegre Distribution]
 mermaid: true 
