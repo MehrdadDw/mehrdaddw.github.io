@@ -69,7 +69,7 @@ The implemented algorithm is based on [kleinburg-kumar Vertex copying model](htt
 The degree distribution as it can be guessed is decreasing for higher deegres and is said that the distribution follows power law distribution. The interesting point as shown in chart, is that the when the probablity of old neighbors increases, the apearence of higher degrees is more likely to happen.
 ![Preferential attachment]({{site.url}}/../images/Copying-5000-nodes.png){:class="img-responsive"}
 {: .center}
-number of node doesnt affect the form of network structure, thats why they called it free scale model.
+both results are based of multiple experiments to form consistent deegre frequence and the avarage of them is showing. As it can be seen the number of nodes doesn't affect the form of the network structure, thats why they called it free scale model.
 ![Preferential attachment vs Random]({{site.url}}/../images/Copying-2000-nodes.png){:class="img-responsive"}
 {: .center}
 [Full code here](https://github.com/Dowlatabadi/HWs/blob/master/SN/copying.py)
