@@ -22,9 +22,9 @@ Apache Spark
 
 ###Databases
 MS SQL Server, MangoDB,
-Redis Cache, Elastic Search ( in ELK)
+Redis Cache, Elastic Search(in ELK)
 ###MONITORING
-Grafana, Kibana ( ELK)
+Grafana, Kibana(ELK Stack)
 ###MESSAGE QUEUES
 RabbitMQ, Kafaka
 ###OTHER TOOLS
