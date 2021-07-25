@@ -30,11 +30,13 @@ As a side project, it took about 3 months to be developed.Most of the time was b
 
 Hopefully, in the next days after some final changes and optimizations, I will publish it on google play.
 
-
+[Windmill puzzle(Rotating Pivots) on google play!](https://play.google.com/store/apps/details?id=com.Amin.RotatingLinePuzzles)
 ![Windmill-puzzles]({{site.url}}/../images/Windmill-puzzles-lvl25.jpg){:class="img-responsive"}
 {: .center}
-[Watch game play on youtube!](https://youtu.be/BAOKrA4NSHc)
-<iframe src="https://itch.io/embed/890875" width="552" height="167" frameborder="0"><a href="https://mehrdad-dowlatabadi.itch.io/windmill-puzzles">Windmill Puzzles by Mehrdad Dowlatabadi</a></iframe>
+[Game Play!](https://youtu.be/BAOKrA4NSHc)
+<!-- [Watch game play on youtube!](https://youtu.be/BAOKrA4NSHc)
+<iframe src="https://itch.io/embed/890875" width="552" height="167" frameborder="0"><a href="https://mehrdad-dowlatabadi.itch.io/windmill-puzzles">Windmill Puzzles by Mehrdad Dowlatabadi</a></iframe> -->
+
 
 
 
