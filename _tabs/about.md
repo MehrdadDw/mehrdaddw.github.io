@@ -5,7 +5,7 @@ order: 4
 ---
 
 ## Who 
-> `Software Developer` with more than 7 years of experience in leading, designing, coding, testing, and debugging
+`Software Developer` with more than 7 years of experience in leading, designing, coding, testing, and debugging
 software applications for different service groups, manufacturing, and fintech companies.
 Currently working as Back-end developer in Mofid Securities, Iran first brokerage firm.
 
