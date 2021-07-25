@@ -33,7 +33,7 @@ Hopefully, in the next days after some final changes and optimizations, I will p
 [Windmill puzzle(Rotating Pivots) on google play!](https://play.google.com/store/apps/details?id=com.Amin.RotatingLinePuzzles)
 ![Windmill-puzzles]({{site.url}}/../images/Windmill-puzzles-lvl25.jpg){:class="img-responsive"}
 {: .center}
-[Game Play!](https://youtu.be/BAOKrA4NSHc)
+[Watch Game Play!](https://youtu.be/BAOKrA4NSHc){: .center}
 
 
 
