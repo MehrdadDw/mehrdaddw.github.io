@@ -5,4 +5,5 @@ order: 4
 ---
 
 
-> **Note**: Add Update101 syntax content to file `_tabs/about.md` and it will show up on this page.
+> Innovative software developer with 9 years of experience in leading, designing, coding, testing, and debugging
+software applications for different service groups, manufacturing, and fintech companies.
