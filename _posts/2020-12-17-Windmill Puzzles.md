@@ -34,8 +34,7 @@ Hopefully, in the next days after some final changes and optimizations, I will p
 ![Windmill-puzzles]({{site.url}}/../images/Windmill-puzzles-lvl25.jpg){:class="img-responsive"}
 {: .center}
 [Game Play!](https://youtu.be/BAOKrA4NSHc)
-<!-- [Watch game play on youtube!](https://youtu.be/BAOKrA4NSHc)
-<iframe src="https://itch.io/embed/890875" width="552" height="167" frameborder="0"><a href="https://mehrdad-dowlatabadi.itch.io/windmill-puzzles">Windmill Puzzles by Mehrdad Dowlatabadi</a></iframe> -->
+
 
 
 
