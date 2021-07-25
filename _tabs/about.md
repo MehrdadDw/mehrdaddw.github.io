@@ -11,7 +11,7 @@ Currently working as Back-end developer in Mofid Securities, Iran first brokerag
 
 ## Skills
 
-### languages
+### Languages
 - C#,
 -  C/C++,
 - Python,
@@ -23,11 +23,11 @@ Currently working as Back-end developer in Mofid Securities, Iran first brokerag
 - Redis Cache,
 - Elastic Search(in ELK)
 
-### MESSAGE QUEUES
+### Message Queues
 - RabbitMQ, 
 - Kafaka
 
-### MONITORING
+### Monitoring
 - Grafana,
 - Kibana(ELK Stack)
 
@@ -35,7 +35,7 @@ Currently working as Back-end developer in Mofid Securities, Iran first brokerag
 - ASP.Net,
 - Apache Spark
 
-### OTHER TOOLS
+### Other Tools
 - Docker, Kubernetes,
 - Git, SSH, Bash, Powershell,
 - VS Code, Visual Studio
