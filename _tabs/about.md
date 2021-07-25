@@ -12,22 +12,29 @@ Currently working as Back-end developer in Mofid Securities, Iran first brokerag
 ## Skills
 
 ### languages
-C#, C/C++, Python, Javascript
-
-### Tools & Frameworks
-
-
-ASP.Net
-Apache Spark
+- C#,
+-  C/C++,
+- Python,
+- Javascript
 
 ### Databases
-MS SQL Server, MangoDB,
-Redis Cache, Elastic Search(in ELK)
-### MONITORING
-Grafana, Kibana(ELK Stack)
+- MS SQL Server, 
+- MangoDB,
+- Redis Cache,
+- Elastic Search(in ELK)
+
 ### MESSAGE QUEUES
-RabbitMQ, Kafaka
+- RabbitMQ, 
+- Kafaka
+### MONITORING
+- Grafana,
+- Kibana(ELK Stack)
+### Tools & Frameworks
+
+- ASP.Net,
+- Apache Spark
+
 ### OTHER TOOLS
-Docker, Kubernetes
-Git, SSH, Bash, Powershell,
-VS Code, Visual Studio
+- Docker, Kubernetes,
+- Git, SSH, Bash, Powershell,
+- VS Code, Visual Studio
