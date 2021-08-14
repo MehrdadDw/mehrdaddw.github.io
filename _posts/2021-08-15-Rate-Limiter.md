@@ -41,7 +41,7 @@ graph LR;
         Z(Rate Limiter Service)-->|X1+X2+X3+X4+X5 requests| Discard(Discard);
 ```
 
-## Solution:
+## Solution
 
 The **trivial solution** is to define a back-off time between 2 batches of requests, but it has two main problems: 
 - The rate can exceed the limit 
@@ -51,7 +51,7 @@ The **trivial solution** is to define a back-off time between 2 batches of reque
 The rate-limiting problem is not a new problem. There are many solutions but the **token bucket algorithm** is a simple solution that would be investigated in this post.
 
 
-### Algorithm Description:
+### Algorithm Description
 
 The **actual algorithm** is more like **discrete event simulation**; such that in each occurrence of events we decide for the new state of the system. The main event is: *the request arrival*.
 in which we first add newly generated tokens within the gap between last token usage and now.
@@ -72,7 +72,7 @@ graph LR;
 ```
 
 
-### on Request Arrival:
+### on Request Arrival
 
 ```python
     def RefillandExamine(user,request_tokens):
