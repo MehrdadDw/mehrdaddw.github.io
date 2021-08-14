@@ -82,6 +82,7 @@ graph LR;
         #decision point
         if (current_tokens>=request_tokens):
             current_tokens-=request_tokens
+            pass_requests()
         else:
             discard_request()
 
@@ -90,7 +91,7 @@ graph LR;
 
 
 
-In a distributed system we still can calculate the sum of requests, but to ensure we have enough tokens in each bucket, we assign `N*required_tokens` to overall nodes but after each event we clear exessive tokens. In this case we need to inform nodes about each other that it can be acheived by using fully mesh broadcasting, **Gossip Communication**, **Distributed Cache** or **Leader Election** and coordination methods.
+In a distributed system we still can calculate the sum of requests, but to ensure we have enough tokens in each bucket, we assign `N*required_tokens` to overall nodes but after each event we clear exessive tokens. In this case, we need to inform nodes about each other that it can be achieved by using fully mesh broadcasting, **Gossip Communication**, **Distributed Cache**, or **Leader Election** and coordination methods.
 
 
 In this situation, we risk the consumption of excessive tokens, but it can be fixed.
