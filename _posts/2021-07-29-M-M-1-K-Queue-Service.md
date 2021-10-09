@@ -23,7 +23,7 @@ mermaid: true
 
 >A computer system with the incoming rate of customers each of which having a due time and a queue that they can wait on. 
 The customers will be blocked and droped if the queue is full.
-The customers whose the due time reachs, would be droped aswell.
+The customers whose the due time reachs, would be droped aswell..
 the rest would be serviced and considered as repartured.
 assuming customers arrival is a poisson process or with a normal distribution, we try to simulate this queue and find out the percentage of blockage and departure ratio.
 In addition we compare the results of simulation with the analytical results.
