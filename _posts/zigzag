@@ -1,0 +1,17 @@
+def convert(self, s: str, numRows: int) -> str:
+    import math
+    j=math.ceil((len(s)/(i+1))*2)
+    index=0
+    res={}
+    for index,x in enumerate(s):
+        # single one
+        if (index%(i+1)==i):
+            partition=(numRows-1)-((index//(i+1))%numRows)
+
+        else:
+            partition=(index%(i+1))
+            
+        if partition in res:
+                res[partition].append(x)
+        else:
+                res[partition]=[x]
