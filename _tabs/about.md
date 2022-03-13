@@ -25,7 +25,7 @@ Currently working as Back-end developer in Mofid Securities, Iran first brokerag
 
 ### Message Queues
 - RabbitMQ, 
-- Kafaka
+- Kafka
 
 ### Monitoring
 - Grafana,

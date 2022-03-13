@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Short Encoder System 
+title:  Short Encoder System 
 categories: [System Design,Short Encoder System]
 tags: [System Design, Golang, Redis Cache, Unique Id Generator, Hash Function, Decode, Encode]
 mermaid: true 
