@@ -64,7 +64,7 @@ STORAGE -->  Shortener
 
 ```
 
-### Encoding Algorithm like base conversion:
+### Encoding Algorithm (base conversion):
 
 ```python
     alph='ABCDEFGHIJKLMNOPQRSTUVWXYZ'
@@ -91,7 +91,7 @@ Further, we store key/values and the revverse of them in DB.
 **Note**: We used redis icrement capability to generatea unique sequence number.
 
 
-### Scalling
+### Scaling
 Usually, when the number of **Requests per second** increases, one instance of the service because of the sequential processing which can be improved by multithreading or concurrent paradigms, wouldn’t result in good throughput or success ratio. while these approaches can improve the performance, the simpler solution could be using multiple instances of the service instead of only one. this can be done by the use of containerizing approaches like docker, and scaling can be controlled by docker swarm and so on.
 
 The provided code has a benchmarking system and a docker-compose file ready to be used for the docker swarm. more instruction is available in the repository:
