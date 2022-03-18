@@ -84,11 +84,11 @@ STORAGE -->  Shortener
 
 
 ### Decoding Algorithm:
-well, the decoding is not required at all, because we doesn't need to find original dequnce number.
+well, decoding is not required at all, because we don’t need to find the original sequence number.
 
-Further, we store key/values and the revverse of them in DB.
+Further, we store key/values and the reverse of them in DB.
 
-**Note**: We used redis icrement capability to generatea unique sequence number.
+**Note**: We used Redis increment capability to generate a unique sequence numbers.
 
 
 ### Scaling
