@@ -26,7 +26,7 @@ I was thinking about making a game based on this idea and the challenge could be
 
 I designed a simple algorithm by which the order would be calculated and I was able to generate puzzle labels based on it. Sometimes I drew and design levels on paper and then added them to the game. Another mode which was creating pivot at the appropriate position is added but it is not included in first release. Finally, I finished up with 48 levels. It was fun and challenging and at the same time a compulse for me to finish what i started.
 
-As a side project, it took about 3 months(in spare time) to be developed.Most of the time was being spend on creating a puzzle and In this period all the idea, art, and level design, developing and testing was done.   
+As a side project, it took about 3 months(in spare time) to be developed. Most of the time was being spend on creating and designing levels and In this period all the idea, art, and level design, developing and testing was done.   
 
 Hopefully, in the next days after some final changes and optimizations, I will publish it on google play.
 
