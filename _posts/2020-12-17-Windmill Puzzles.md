@@ -30,7 +30,7 @@ As a side project, it took about 3 months(in spare time) to be developed. Most o
 
 Hopefully, in the next days after some final changes and optimizations, I will publish it on google play.
 
-#Privacy Policy
+# Privacy Policy
 
 We take your privacy seriously. This Privacy Policy explains how we collect, use, and share information about you when you use our game, "Rotating Pivots" (the "Game").
 
@@ -56,7 +56,7 @@ We may update this Privacy Policy from time to time. If we make any material cha
 
 Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at amin.kavosi99@gmail.com.
+If you have any questions about this Privacy Policy, please contact us at amin.kavosi99[a t]gmail.com.
 
 [Windmill puzzle(Rotating Pivots) on google play!](https://play.google.com/store/apps/details?id=com.Amin.RotatingLinePuzzles)
 ![Windmill-puzzles]({{site.url}}/../images/Windmill-puzzles-lvl25.jpg){:class="img-responsive"}
